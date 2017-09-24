@@ -1,0 +1,1 @@
+# Hunspell-dict
