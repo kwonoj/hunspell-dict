@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kwonoj/hunspell-dict/issues"
   },
-  "homepage": "https://github.com/kwonoj/hunspell-dict#readme"
+  "homepage": "https://github.com/kwonoj/hunspell-dict#readme",
+  "dependencies": {
+    "lerna": "^2.2.0"
+  }
 }
