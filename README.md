@@ -1,1 +1,1 @@
-# Hunspell-dict
+# hunspell-dict

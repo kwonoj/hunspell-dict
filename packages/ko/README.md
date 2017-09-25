@@ -1,0 +1,2 @@
+# @hunspell-dict/ko
+
