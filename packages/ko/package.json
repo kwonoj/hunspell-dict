@@ -1,0 +1,10 @@
+{
+  "name": "hunspell-dict-ko",
+  "version": "0.0.1",
+  "description": "Hunspell dictionaries for Korean",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
+  "license": "(MPL-1.1 OR GPL-2.0 OR LGPL-2.1)"
+}

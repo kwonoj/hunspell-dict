@@ -1,2 +1,8 @@
 # @hunspell-dict/ko
 
+This module is packaged module [`hunspell-dict-ko`](https://github.com/spellcheck-ko/hunspell-dict-ko) [0.6.4](https://github.com/spellcheck-ko/hunspell-dict-ko/releases/tag/0.6.4) for npm.
+
+# License
+
+[MPL-1.1/GPL-2.0/LGPL-2.1 tri-license](https://github.com/kwonoj/hunspell-dict/blob/master/packages/ko/LICENSE)
+
