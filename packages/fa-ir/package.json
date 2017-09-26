@@ -1,0 +1,8 @@
+
+{
+  "name": "hunspell-dict-fa-ir",
+  "version": "0.0.1",
+  "description": "Hunspell dictionaries for Persian (Iran)",
+  "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
+  "license": "Apache-2.0"
+}

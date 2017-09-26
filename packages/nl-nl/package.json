@@ -1,0 +1,8 @@
+
+{
+  "name": "hunspell-dict-nl-nl",
+  "version": "0.0.1",
+  "description": "Hunspell dictionaries for Dutch (Netherlands)",
+  "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
+  "license": "(BSD-3-Clause OR CC-BY-3.0)"
+}

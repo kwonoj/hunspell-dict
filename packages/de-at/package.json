@@ -1,0 +1,7 @@
+{
+  "name": "hunspell-dict-de-at",
+  "version": "0.0.1",
+  "description": "Hunspell dictionaries for German (Austria)",
+  "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
+  "license": "(GPL-2.0 OR GPL-3.0)"
+}

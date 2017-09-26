@@ -1,0 +1,8 @@
+
+{
+  "name": "hunspell-dict-tr",
+  "version": "0.0.1",
+  "description": "Hunspell dictionaries for Turkish",
+  "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
+  "license": "APACHE-2.0"
+}

@@ -1,0 +1,8 @@
+
+{
+  "name": "hunspell-dict-sr-latn",
+  "version": "0.0.1",
+  "description": "Hunspell dictionaries for Serbian (Latin)",
+  "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
+  "license": "LGPL-3.0"
+}
