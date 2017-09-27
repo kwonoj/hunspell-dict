@@ -3,8 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kwonoj/hunspell-dict.git"
@@ -17,5 +16,11 @@
   "homepage": "https://github.com/kwonoj/hunspell-dict#readme",
   "dependencies": {
     "lerna": "^2.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "cjs-iso-639": "^1.0.2",
+    "iso-3166-2": "^1.0.0",
+    "locale2": "^2.1.4"
   }
 }
