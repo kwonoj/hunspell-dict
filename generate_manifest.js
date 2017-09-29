@@ -28,6 +28,7 @@ const getDescription = (code) => {
   }
 }
 
+//poc code to generate manifest
 const manifest = folders.map((x) => {
   const description = getDescription(x);
   const pkg = require(path.resolve(path.join('./packages', x, 'package.json')));
@@ -47,4 +48,12 @@ const manifest = folders.map((x) => {
   }
 });
 
-console.log(manifest);
+
+var jsonfile = require('jsonfile')
+//update package property at once
+folders.forEach((x) => {
+  const pkg = path.resolve(path.join('./packages', x, 'package.json'));
+  const p = jsonfile.readFileSync(pkg);
+  //p.defaultRegion = true;
+  //jsonfile.writeFileSync(pkg, p, {spaces: 2});
+})

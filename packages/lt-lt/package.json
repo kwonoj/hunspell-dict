@@ -3,5 +3,6 @@
   "version": "0.0.1",
   "description": "Hunspell dictionaries for Lithuanian (Lithuania)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "defaultRegion": true
 }

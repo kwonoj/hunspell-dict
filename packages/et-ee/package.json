@@ -3,5 +3,6 @@
   "version": "0.0.1",
   "description": "Hunspell dictionaries for Estonian (Estonia)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
-  "license": "LGPL"
+  "license": "LGPL",
+  "defaultRegion": true
 }

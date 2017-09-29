@@ -3,5 +3,6 @@
   "version": "0.0.1",
   "description": "Hunspell dictionaries for English (Australia)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
-  "license": "(MIT OR BSD)"
+  "license": "(MIT OR BSD)",
+  "defaultRegion": false
 }

@@ -3,5 +3,6 @@
   "version": "0.0.1",
   "description": "Hunspell dictionaries for Latvian (Latvia)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
-  "license": "LGPL-2.1"
+  "license": "LGPL-2.1",
+  "defaultRegion": true
 }

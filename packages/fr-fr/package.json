@@ -3,5 +3,6 @@
   "version": "0.0.1",
   "description": "Hunspell dictionaries for French (France)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
-  "license": "MPL-2.0"
+  "license": "MPL-2.0",
+  "defaultRegion": true
 }
