@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-tg-tg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hunspell dictionaries for Tajik (Togo)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "APACHE-2.0",

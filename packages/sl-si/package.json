@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-sl-si",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hunspell dictionaries for Slovene (Slovenia)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "(GPL-3.0 OR LGPL-2.1)",

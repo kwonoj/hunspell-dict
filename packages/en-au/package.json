@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-en-au",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hunspell dictionaries for English (Australia)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "(MIT OR BSD)",

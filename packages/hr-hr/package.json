@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-hr-hr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hunspell dictionaries for Croatian (Croatia)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "(LGPL OR SISSL)",

@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-et-ee",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hunspell dictionaries for Estonian (Estonia)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "LGPL",

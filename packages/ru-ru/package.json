@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-ru-ru",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hunspell dictionaries for Russian (Russia)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "BSD-2-Clause",
