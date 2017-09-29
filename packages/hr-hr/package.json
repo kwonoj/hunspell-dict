@@ -3,5 +3,6 @@
   "version": "0.0.1",
   "description": "Hunspell dictionaries for Croatian (Croatia)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
-  "license": "(LGPL OR SISSL)"
+  "license": "(LGPL OR SISSL)",
+  "defaultRegion": true
 }

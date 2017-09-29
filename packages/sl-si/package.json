@@ -3,5 +3,6 @@
   "version": "0.0.1",
   "description": "Hunspell dictionaries for Slovene (Slovenia)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
-  "license": "(GPL-3.0 OR LGPL-2.1)"
+  "license": "(GPL-3.0 OR LGPL-2.1)",
+  "defaultRegion": true
 }

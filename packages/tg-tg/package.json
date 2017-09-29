@@ -3,5 +3,6 @@
   "version": "0.0.1",
   "description": "Hunspell dictionaries for Tajik (Togo)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
-  "license": "APACHE-2.0"
+  "license": "APACHE-2.0",
+  "defaultRegion": true
 }

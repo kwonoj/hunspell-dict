@@ -3,5 +3,6 @@
   "version": "0.0.1",
   "description": "Hunspell dictionaries for Russian (Russia)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "defaultRegion": true
 }

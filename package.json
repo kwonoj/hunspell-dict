@@ -3,10 +3,12 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kwonoj/hunspell-dict.git"
+  },
+  "scripts": {
+    "trigger:publish": "npm login && lerna publish --conventional-commits && npm logout"
   },
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "MIT",
