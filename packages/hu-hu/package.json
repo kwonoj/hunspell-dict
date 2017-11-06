@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-hu-hu",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hunspell dictionaries for Hungarian (Hungary)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "(GPL-2.0 OR LGPL-2.1 OR MPL-1.1)",
