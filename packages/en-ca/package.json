@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-en-ca",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Hunspell dictionaries for English (Canada)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "(MIT OR BSD)",

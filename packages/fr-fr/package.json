@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-fr-fr",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Hunspell dictionaries for French (France)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "MPL-2.0",

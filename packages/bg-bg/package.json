@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-bg-bg",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Hunspell dictionaries for Bulgarian (Bulgaria)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "LGPL-2.1",

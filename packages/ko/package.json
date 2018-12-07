@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-ko",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Hunspell dictionaries for Korean",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "(MPL-1.1 OR GPL-2.0 OR LGPL-2.1)",

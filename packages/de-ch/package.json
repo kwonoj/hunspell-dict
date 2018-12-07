@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-de-ch",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Hunspell dictionaries for German (Switzerland)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "(GPL-2.0 OR GPL-3.0)",

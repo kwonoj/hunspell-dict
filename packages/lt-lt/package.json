@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-lt-lt",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Hunspell dictionaries for Lithuanian (Lithuania)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "BSD-3-Clause",

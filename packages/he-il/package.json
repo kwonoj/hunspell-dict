@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-he-il",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Hunspell dictionaries for Hebrew (Israel)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "AGPL-3.0",

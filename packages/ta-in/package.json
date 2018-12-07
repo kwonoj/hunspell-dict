@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-ta-in",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Hunspell dictionaries for Tamil (India)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "MPL-1.1",

@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-cs-cz",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Hunspell dictionaries for Czech (Czech Republic)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "GPL-2.0",

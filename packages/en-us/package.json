@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-en-us",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Hunspell dictionaries for English (United States)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "(MIT OR BSD)",

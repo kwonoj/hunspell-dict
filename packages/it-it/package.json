@@ -1,6 +1,6 @@
 {
   "name": "hunspell-dict-it-it",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Hunspell dictionaries for Italian (Italy)",
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "GPL-3.0",
