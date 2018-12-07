@@ -16,13 +16,12 @@
     "url": "https://github.com/kwonoj/hunspell-dict/issues"
   },
   "homepage": "https://github.com/kwonoj/hunspell-dict#readme",
-  "dependencies": {
-    "lerna": "^2.2.0"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "chai": "^4.1.2",
-    "cjs-iso-639": "^1.0.2",
+    "chai": "^4.2.0",
+    "cjs-iso-639": "^1.1.2",
     "iso-3166-2": "^1.0.0",
-    "locale2": "^2.1.4"
+    "lerna": "^3.5.1",
+    "locale2": "^2.3.1"
   }
 }
