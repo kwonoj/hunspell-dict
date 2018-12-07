@@ -1,6 +1,6 @@
-en_GB-ise Hunspell Dictionary
-Version 2017.08.24
-Thu Aug 24 14:36:19 2017 -0400 [2614b88]
+en_GB-large Hunspell Dictionary
+Version 2018.04.16
+Mon Apr 16 22:11:56 2018 -0400 [7bbe293]
 http://wordlist.sourceforge.net
 
 README file for English Hunspell dictionaries derived from SCOWL.
@@ -87,7 +87,7 @@ are not really considered swear words in today's society.
 
 COPYRIGHT, SOURCES, and CREDITS:
 
-The English dictionaries come directly from SCOWL 
+The English dictionaries come directly from SCOWL
 and is thus under the same copyright of SCOWL.  The affix file is
 a heavily modified version of the original english.aff file which was
 released as part of Geoff Kuenning's Ispell and as such is covered by
@@ -343,5 +343,5 @@ and Australian word list.  It is under the following copyright:
   OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
   SUCH DAMAGE.
 
-Build Date: Thu Aug 24 14:39:07 EDT 2017
-Wordlist Command: mk-list --accents=strip en_GB-ise 60
+Build Date: Mon Apr 16 22:14:12 EDT 2018
+Wordlist Command: mk-list -v1 --accents=both en_GB-ize en_GB-ise 70
