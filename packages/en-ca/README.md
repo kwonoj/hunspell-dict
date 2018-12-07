@@ -1,7 +1,7 @@
 # hunspell-dict-en-ca
 
-This module is [En-CA dictionary 2017.08.24](https://sourceforge.net/projects/wordlist/files/speller/2017.08.24/) packaged module for npm.
-This module contains normal (non-large) dictionaries. Read [description](https://sourceforge.net/projects/wordlist/files/speller/2017.08.24/) for difference between large dictionaries.
+This module is [En-CA dictionary 2018.04.16](https://sourceforge.net/projects/wordlist/files/speller/2018.04.16/) packaged module for npm.
+This module contains large version of dictionaries. Read [description](https://sourceforge.net/projects/wordlist/files/speller/2018.04.16/) for difference between normal dictionaries.
 
 # License
 
